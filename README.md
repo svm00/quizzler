@@ -16,8 +16,9 @@ To run this app on your local machine:
 1. **Clone the repo**:
 
    ```bash
-   git clone https://github.com/yourusername/quizzer-app.git
-   cd quizzer-app
+  
+   git clone  https://github.com/svm00/quizzler.git
+   cd quizzler-app
    ```
 
 2. **Install dependencies**:
